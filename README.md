@@ -1,6 +1,5 @@
 <html>
 <head>
- <title> Паспорт станка 16К20 </title>
 </head> 
  <body>
  <img src="https://chooseyourcareer.ru/i/618292d8d354f.jpg">
